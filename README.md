@@ -22,22 +22,20 @@ YouTube separate from their parties.
 
 **data** folder contains all the csv files
 
-  **channelData.csv**: contains information about the nine channels (subscribers, total videos etc.)
-  
-  **videos_data.csv**: contains information about all the videos uploaded on the channels -upload list- (titles, published dates, views etc.)
-  
-  **elected_data.csv**: contains information about all the videos uploaded on the channels in 2023
-  
-  **uploads_per_month.csv**: how many videos uploaded per month since the channel launch until Jan 2024.
+|**File**| **Description** | 
+|:-------:|:-------------------|
+|**channelData.csv**:| contains information about the nine channels (subscribers, total videos etc.)
+|**videos_data.csv**:|contains information about all the videos uploaded on the channels -upload list- (titles, published dates, views etc.)
+|**elected_data.csv**:| contains information about all the videos uploaded on the channels in 2023
+|**uploads_per_month.csv**:| how many videos uploaded per month since the channel launch until Jan 2024.
 
 **.ipynb** files
 
-  **YoutubeAPIDataCollection.ipynb**: Data collection through Youtube API
-  
-  **ytDCproject-DA.ipynb**: Data cleaning, processing, analysis and visualization
-
-**PoliticalLeadersonYoutube.pdf**: A short review of results
-
-**stopwords-el.json/txt**: stopwords used to prompt for Text Analysis with ChatGPT
+|**File**| **Description** | 
+|:-------:|:-------------------|
+|**YoutubeAPIDataCollection.ipynb**:| Data collection through Youtube API
+|**ytDCproject-DA.ipynb**:| Data cleaning, processing, analysis and visualization
+|**PoliticalLeadersonYoutube.pdf**:| A short review of results
+|**stopwords-el.json/txt**:| stopwords used to prompt for Text Analysis with ChatGPT
 
 
