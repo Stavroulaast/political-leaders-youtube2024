@@ -1,5 +1,5 @@
 # Political Leaders on YouTube: User Engagement & Text Analysis 
-### Course Project: Digital Tools in New Media | MA Digital Media, Culture and Communication, Aristotle University of Thessaloniki |  Fall Semester 2023
+### Course Project: Digital Tools in New Media | MA Digital Media, Culture and Communication, Aristotle University of Thessaloniki |  Fall Semester 2023-2024
 
 This project examines how elected political leaders in Greece use YouTube as a platform for political communication and online engagement. Using the YouTube API, Python programming, and AI-assisted text analysis (ChatGPT), the study explores what type of content parliamentary leaders uploaded during 2023 and how digital tools can support new media research.
 
